@@ -36,7 +36,7 @@
 
 <div align="center">
   
-<img height=350 src="https://github.com/dkacevich/dkacevich/blob/main/.github/ezgif.com-optimize.gif" />
+<img height=350 src="https://github.com/dkacevich/dkacevich/blob/main/.github/ezgif.com-gif-maker.gif" />
   
 </div>
 
