@@ -8,9 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkacevich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="400" src="https://media.tenor.com/41avUT8ZlgUAAAAd/dev-tester.gif"  />
 
 ###
 
@@ -36,9 +34,6 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/dkacevich/dkacevich/output/snake.svg" alt="Snake animation" />
-</div>
+![](https://media.tenor.com/41avUT8ZlgUAAAAd/dev-tester.gif)
 
 ###
