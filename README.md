@@ -34,6 +34,10 @@
 
 ###
 
-![](https://media.tenor.com/41avUT8ZlgUAAAAd/dev-tester.gif)
+<div align="center">
+  
+<img height=350 src="https://github.com/dkacevich/dkacevich/blob/main/.github/ezgif.com-optimize.gif" />
+  
+</div>
 
 ###
