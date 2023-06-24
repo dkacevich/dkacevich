@@ -69,4 +69,6 @@
 
 ###
 
+![Snake animation](https://github.com/dkacevich/dkacevich/blob/output/github-contribution-grid-snake.svg)
+
 </div>
