@@ -36,23 +36,5 @@
   <img width="12" />
 </div>
 
-###
-
-<h3 align="center"><b>Databases</b></p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-</div>
-
-
-###
-
-![Snake animation](https://github.com/dkacevich/dkacevich/blob/output/github-contribution-grid-snake.svg)
 
 </div>
